@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hermon! 👋
 
-<!--
-**hermon1738/hermon1738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Computer Science Student** at [Minnesota State University, Mankato](https://www.mnsu.edu).
+- 💻 **Passionate Developer** with a focus on:
+  - **Software Development**, **Machine Learning**, and **Web Development**.
+  - Proficient in:
+    - **Python**: ⭐⭐⭐⭐⭐
+    - **Java**: ⭐⭐⭐⭐
+    - **C#**: ⭐⭐⭐⭐
+    - **React**: ⭐⭐⭐
+    - **JavaScript**: ⭐⭐⭐
+    - **TypeScript**: ⭐⭐⭐
+- 🔬 Currently working on a **research project** focused on [**ad fraud detection**](https://github.com/Dawson-Rudolph/Anti-Ad-Fraud-Research) using ML models.
+- 🌐 **Open to collaboration**, especially in cloud services and containerization.
+- 🚀 Eager to contribute to open-source projects and build impactful solutions.
+- 💬 Let’s connect and collaborate on innovative projects!
